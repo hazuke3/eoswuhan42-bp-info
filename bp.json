@@ -1,10 +1,20 @@
 {
-  "network": "Jungle 4",
-  "chain_id": "73e4385a2708e6d7048834fbc1079f2fabb17b3c125b146af438971e90716c4d",
   "producer_account_name": "eoswuhan42bp",
-  "p2p_endpoint": "64.204.204.158:9876",
-  "api_endpoint": "",
-  "ssl_endpoint": "",
-  "full_history": false,
-  "public_rpc_policy": "No public RPC endpoint configured yet."
+  "org": {
+    "candidate_name": "EOSWUHAN42",
+    "website": "https://github.com/hazuke3/eoswuhan42-bp-info",
+    "email": "hazuke323@gmail.com",
+    "github_user": "hazuke3",
+    "location": {
+      "name": "Wuhan, Hubei",
+      "country": "CN",
+      "latitude": 30.595000,
+      "longitude": 114.297500
+    },
+    "social": {
+      "twitter": "@ChineseHive",
+      "github": "hazuke3",
+      "telegram": "@hazuker"
+    }
+  }
 }
